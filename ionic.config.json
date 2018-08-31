@@ -1,0 +1,7 @@
+{
+  "name": "pergunte",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
